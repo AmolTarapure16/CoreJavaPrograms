@@ -6,12 +6,27 @@ public class Interview_004_RemoveDuplicateCharacters
 	
 	public static void main(String[] args) 
 	{
-		String str ="Programing";
+        String input = "programming";
+        String result = removeDuplicates(input);
+        System.out.println("Original: " + input);
+        System.out.println("Without Duplicates: " + result);
+    }
 
-		StringBuilder sb1 = new StringBuilder();
-		str.chars().distinct().forEach(c ->sb1.append((char)c));
-		System.out.println(sb1);
+    public static String removeDuplicates(String str) 
+    {
+        String result = "";
+        for (int i = 0; i < str.length(); i++) 
+        {
+            char ch = str.charAt(i);
+            
+            // If character is not already in result, append it
+            
+            if (result.indexOf(ch) == -1) 
+            {
+                result += ch;
+            }
+        }
+        return result;
+    }
 			
-	}
-
 }
