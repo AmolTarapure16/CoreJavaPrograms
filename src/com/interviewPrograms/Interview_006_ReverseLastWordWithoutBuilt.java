@@ -1,6 +1,6 @@
 package com.interviewPrograms;
 
-public class ReverseStringLastWord
+public class Interview_006_ReverseLastWordWithoutBuilt
 {
      //Reverse String LastWord
 	 // Input -> Core Java Programming

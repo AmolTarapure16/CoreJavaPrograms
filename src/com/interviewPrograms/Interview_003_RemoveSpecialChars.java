@@ -1,6 +1,6 @@
 package com.interviewPrograms;
 
-public class RemoveSpecialChars 
+public class Interview_003_RemoveSpecialChars 
 {
    //Java Program To Remove Special Characters From Given String
 	

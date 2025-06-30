@@ -1,6 +1,6 @@
 package com.JavaPrograms;
 
-public class SwapTwoNumbers 
+public class Interview_001_SwapTwoNumbers 
 {
 	// Swap Two Numbers | 5 Ways of swapping Numbers
 

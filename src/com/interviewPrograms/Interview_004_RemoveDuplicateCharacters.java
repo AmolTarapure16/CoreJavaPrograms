@@ -1,6 +1,6 @@
 package com.interviewPrograms;
 
-public class RemoveDuplicateCharacters 
+public class Interview_004_RemoveDuplicateCharacters 
 {
    //Java Program To Remove Duplicate Characters In String
 	

@@ -1,6 +1,6 @@
 package com.interviewPrograms;
 
-public class ReverseEachWordInString 
+public class Interview_002_ReverseEachWordInString 
 {
 	//Reverse Each Word In Given String 
 	public static void main(String[] args) 

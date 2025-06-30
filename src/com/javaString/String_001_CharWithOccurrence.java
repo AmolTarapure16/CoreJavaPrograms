@@ -2,7 +2,7 @@ package com.javaString;
 
 import java.util.Arrays;
 
-public class CharWithOccurrence 
+public class String_001_CharWithOccurrence 
 {
     //Java Program To Replace Character With It's Occurrence
 	

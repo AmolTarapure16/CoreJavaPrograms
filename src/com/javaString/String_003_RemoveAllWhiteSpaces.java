@@ -1,6 +1,6 @@
 package com.javaString;
 
-public class RemoveAllWhiteSpaces 
+public class String_003_RemoveAllWhiteSpaces 
 {
     //Java Program To Remove White Spaces From Given String
 	public static void main(String[] args) 
