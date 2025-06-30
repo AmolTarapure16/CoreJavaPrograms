@@ -1,6 +1,6 @@
 package com.interviewPrograms;
 
-public class ReverseString 
+public class Interview_001_ReverseString 
 { 
 	//Java Program To Reverse Given String
 
